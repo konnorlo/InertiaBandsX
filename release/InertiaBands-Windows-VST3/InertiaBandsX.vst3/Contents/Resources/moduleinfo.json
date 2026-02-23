@@ -1,0 +1,58 @@
+{
+  "Name": "InertiaBandsX",
+  "Version": "0.0.3",
+  "Factory Info": {
+    "Vendor": "InertiaAudio",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB496E7274496E6232",
+      "Category": "Audio Module Class",
+      "Name": "InertiaBandsX",
+      "Vendor": "InertiaAudio",
+      "Version": "0.0.3",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD496E7274496E6232",
+      "Category": "Component Controller Class",
+      "Name": "InertiaBandsX",
+      "Vendor": "InertiaAudio",
+      "Version": "0.0.3",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D496E7274496E6232",
+      "Category": "Plugin Compatibility Class",
+      "Name": "InertiaBandsX",
+      "Vendor": "InertiaAudio",
+      "Version": "0.0.3",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
