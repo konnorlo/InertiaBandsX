@@ -1,0 +1,77 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+build/
+build-*/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Ninja/Make
+.ninja_deps
+.ninja_log
+build.ninja
+Makefile
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+
+# Visual Studio / MSVC
+.vs/
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# JUCE / plugin build artifacts
+JuceLibraryCode/
+plugin/*_artefacts/
+plugin/**/*.vst3
+plugin/**/*.component
+plugin/**/*.app
+plugin/**/*.pkg
+plugin/**/*.dylib
+plugin/**/*.so
+plugin/**/*.dll
+plugin/**/*.exe
+plugin/**/*.pdb
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Optional local assets cache
+*.cache
+
+# Python virtual envs
+.venv/
+.venv-trainer312/
+venv/
+
+# Training generated artifacts
+training/data/
+training/__pycache__/
+training/**/*.pyc
